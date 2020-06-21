@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35584" started-at="2020-06-21T05:44:12 WAT" finished-at="2020-06-21T05:44:47 WAT">
+  <suite name="Default suite" duration-ms="59250" started-at="2020-06-21T18:37:43 WAT" finished-at="2020-06-21T18:38:42 WAT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35584" started-at="2020-06-21T05:44:12 WAT" finished-at="2020-06-21T05:44:47 WAT">
+    <test name="Default test" duration-ms="59250" started-at="2020-06-21T18:37:43 WAT" finished-at="2020-06-21T18:38:42 WAT">
       <class name="com.org.KONGA.Add_To_Cart_Positive">
-        <test-method status="PASS" signature="Initilazation()[pri:0, instance:com.org.KONGA.Add_To_Cart_Positive@7a1ebcd8]" name="Initilazation" is-config="true" duration-ms="17029" started-at="2020-06-21T05:44:12 WAT" finished-at="2020-06-21T05:44:29 WAT">
+        <test-method status="PASS" signature="Initilazation()[pri:0, instance:com.org.KONGA.Add_To_Cart_Positive@687080dc]" name="Initilazation" is-config="true" duration-ms="30763" started-at="2020-06-21T18:37:43 WAT" finished-at="2020-06-21T18:38:13 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initilazation -->
-        <test-method status="PASS" signature="Verify_Page_Title()[pri:1, instance:com.org.KONGA.Add_To_Cart_Positive@7a1ebcd8]" name="Verify_Page_Title" duration-ms="26" started-at="2020-06-21T05:44:29 WAT" finished-at="2020-06-21T05:44:29 WAT">
+        <test-method status="PASS" signature="Verify_Page_Title()[pri:1, instance:com.org.KONGA.Add_To_Cart_Positive@687080dc]" name="Verify_Page_Title" duration-ms="435" started-at="2020-06-21T18:38:13 WAT" finished-at="2020-06-21T18:38:14 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Page_Title -->
-        <test-method status="PASS" signature="Search_Product()[pri:2, instance:com.org.KONGA.Add_To_Cart_Positive@7a1ebcd8]" name="Search_Product" duration-ms="7075" started-at="2020-06-21T05:44:29 WAT" finished-at="2020-06-21T05:44:36 WAT">
+        <test-method status="PASS" signature="Search_Product()[pri:2, instance:com.org.KONGA.Add_To_Cart_Positive@687080dc]" name="Search_Product" duration-ms="16135" started-at="2020-06-21T18:38:14 WAT" finished-at="2020-06-21T18:38:30 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search_Product -->
-        <test-method status="PASS" signature="Add()[pri:3, instance:com.org.KONGA.Add_To_Cart_Positive@7a1ebcd8]" name="Add" duration-ms="10455" started-at="2020-06-21T05:44:36 WAT" finished-at="2020-06-21T05:44:47 WAT">
+        <test-method status="PASS" signature="Add()[pri:3, instance:com.org.KONGA.Add_To_Cart_Positive@687080dc]" name="Add" duration-ms="10736" started-at="2020-06-21T18:38:30 WAT" finished-at="2020-06-21T18:38:41 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Add -->
-        <test-method status="PASS" signature="Closing()[pri:0, instance:com.org.KONGA.Add_To_Cart_Positive@7a1ebcd8]" name="Closing" is-config="true" duration-ms="891" started-at="2020-06-21T05:44:47 WAT" finished-at="2020-06-21T05:44:47 WAT">
+        <test-method status="PASS" signature="Closing()[pri:0, instance:com.org.KONGA.Add_To_Cart_Positive@687080dc]" name="Closing" is-config="true" duration-ms="981" started-at="2020-06-21T18:38:41 WAT" finished-at="2020-06-21T18:38:42 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Closing -->
